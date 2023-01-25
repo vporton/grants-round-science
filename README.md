@@ -1,6 +1,6 @@
 # grants-round-science
 
-`grants-round-science` is a fork of `grants-round` intended to finance under-financed software components and scientific publications, following [this whitepaper](https://github.com/vporton/salaries-science/blob/main/financing-science-algorithm.odt?raw=true).
+`grants-round-science` is a fork of `grants-round` intended to finance under-financed software components and scientific publications, following [this whitepaper](https://github.com/vporton/salaries-science/blob/main/financing-science-algorithm.odt?raw=true). It is supported by [a DAO](https://science-dao.vporton.name).
 
 Currently the code of this fork is not yet written.
 
