@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@pulumi/aws": "^5.23.0",
+    "@pulumi/aws": "^6.56.0",
     "@pulumi/pulumi": "^3.49.0"
   }
 }
