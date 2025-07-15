@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "@pulumi/aws": "^5.23.0",
-    "@pulumi/pulumi": "^3.49.0"
+    "@pulumi/pulumi": "^3.56.0"
   }
 }
